@@ -1,6 +1,6 @@
 # BHEX API URL
 
-BHEX Open API的地址为: https://www.bhex.com/openapi
+BEEX Open API的地址为: https://www.beex.one/openapi
 
 # 期权公共端点
 

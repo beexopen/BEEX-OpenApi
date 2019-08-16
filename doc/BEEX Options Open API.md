@@ -1,6 +1,6 @@
 # Base URL
 
-The base url of BHEX open API is: https://www.bhex.com/openapi
+The base url of BHEX open API is: https://www.beex.one/openapi
 
 # Public Options Endpoints
 
