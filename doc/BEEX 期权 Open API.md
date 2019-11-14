@@ -1,4 +1,4 @@
-# BHEX API URL
+# BEEX API URL
 
 BEEX Open API的地址为: https://www.beex.one/openapi
 
@@ -29,7 +29,7 @@ None
 
 
 
-在`symbols`对应的信息组里，显示的是BHEX币币交易的symbol的信息（精度等），与期权交易并无关联，可以忽略。
+在`symbols`对应的信息组里，显示的是BEEX币币交易的symbol的信息（精度等），与期权交易并无关联，可以忽略。
 
 在 `options`对应的信息组里，所有当前正在交易的期权信息将会被返回：
 

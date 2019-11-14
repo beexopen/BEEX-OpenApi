@@ -22,7 +22,7 @@ setup(
     description=description,
     long_description=read('README.md'),
     long_description_content_type="text/markdown",
-    url="https://github.com/bhexopen/BHEX-OpenApi/tree/master/sdk/python",
+    url="https://github.com/bhexopen/BEEX-OpenApi/tree/master/sdk/python",
     packages=find_packages(),
     install_requires=['requests', 'six', 'twisted', 'autobahn', 'pyopenssl', 'service_identity'],
     classifiers=[
